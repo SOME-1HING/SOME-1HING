@@ -3,7 +3,7 @@
 <img align="center" alt="some-1hing" title="SOME-1hing" style="padding:10px;" src="https://i.imgur.com/xNilUO9.gif">
 
 
-`Developer | Programming Lover | Creator`
+`Developer | Programmer`
 
 ### Information
 
