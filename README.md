@@ -56,7 +56,7 @@ I'm a student currently learning programming and creating my own version of digi
 </p>
 
 ### Stats
-<img align="center" alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
+<img align="left" alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
 
 <p align="left">
     <a>
