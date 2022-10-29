@@ -1,7 +1,8 @@
 
 # ️⚜️ SOME1HING
-<img align="center" alt="some-1hing" title="SOME-1hing" style="padding:10px;" src="https://i.imgur.com/xNilUO9.gif">
-
+<p align="center">
+  <img alt="some-1hing" title="SOME-1hing" style="padding:10px;" src="https://i.imgur.com/xNilUO9.gif">
+</p>
 
 `Developer | Programmer`
 
