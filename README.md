@@ -8,11 +8,11 @@
 
 ### Information
 
-- ⚡️ I’m currently working on  **Telegram Bots**
-- 🤓 I’m currently learning  **JavaScript**
-- ✅ I’m looking to collaborate on **Open Source Projects.**
-- 👨 Pronouns :  **He/Him.**
-- ⚽ Hobbies : **Watching Anime**, **Chess**
+- ⚡️ I’m currently working on  `**Telegram Bots**`
+- 🤓 I’m currently learning  `**JavaScript**`
+- ✅ I’m looking to collaborate on `**Open Source Projects**`
+- 👨 Pronouns :  `**He/Him.**`
+- ⚽ Hobbies : `**Watching Anime** | **Chess**`
 
 I'm a student currently learning programming and creating my own version of digital fantasy one step at a time. Most of my projects are made from scratch. I love planning and designing all the way to solve my problems. I mostly have exprience working in the backend with languages.
 
