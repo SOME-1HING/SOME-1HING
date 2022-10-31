@@ -56,22 +56,39 @@ I'm a student currently learning programming and creating my own version of digi
     <img alt="Postgress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </p>
 
-### Stats
+## Statistics
 
-<img align="left" alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
+- ### Trophies
 
-<p align="left">
-    <a>
+<p align="center">
+  <img alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
+</p>
+  
+### GitHub Stats
+
+<p align="center">
     <img alt="Stats" style="padding-bottom:20px; padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=SOME-1HING&show_icons=true&theme=highcontrast">
-    </a>
-    <a>
-    <img alt="Stats" style="padding-bottom:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOME-1HING&theme=radical&layout=compact">
-    </a>
 </p>
 
-<img align="left" alt="streak" style="padding-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
+### Top Languages
+
+<p align="center">
+    <img alt="Stats" style="padding-bottom:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOME-1HING&theme=radical&layout=compact">
+</p>
+
+### GitHub Streak
+
+<p align="center">
+    <img alt="streak" style="padding-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
+</p>
 
 ### My Activity
-<img align="left" alt="activity" style="padding-bottom:10px;" src="https://activity-graph.herokuapp.com/graph?username=SOME-1HING&custom_title=My%20Activity%20Graph&bg_color=000000&line=f3ff00&color=0DF2AB&point=0C00FF&hide_border=true&area=true&area_color=ec9006">
 
-<img alt="profile-views" src="https://komarev.com/ghpvc/?username=SOME-1HING&label=Profile%20views&color=0e75b6&style=flat">
+<p align="center">
+    <img alt="activity" style="padding-bottom:10px;" src="https://activity-graph.herokuapp.com/graph?username=SOME-1HING&custom_title=My%20Activity%20Graph&bg_color=000000&line=f3ff00&color=0DF2AB&point=0C00FF&hide_border=true&area=true&area_color=ec9006">
+</p>
+
+
+<p align = "left">
+    <img alt="profile-views" src="https://komarev.com/ghpvc/?username=SOME-1HING&label=Profile%20views&color=0e75b6&style=flat">
+</p>
