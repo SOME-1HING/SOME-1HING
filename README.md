@@ -9,7 +9,7 @@
 ### Information
 
 - ⚡️ I’m currently working on  `Telegram Bots`
-- 🤓 I’m currently learning  `JavaScript`
+- 🤓 I’m currently learning  `JavaScript | Go`
 - ✅ I’m looking to collaborate on `Open Source Projects`
 - 👨 Pronouns :  `He/Him`
 - ⚽ Hobbies : `Watching Anime | Chess`
@@ -43,7 +43,8 @@ I'm a student currently learning programming and creating my own version of digi
 <p align="left">
     <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img alt="JavaSript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img alt="JavaSript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+    <img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img alt="ExpressJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
     <img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
