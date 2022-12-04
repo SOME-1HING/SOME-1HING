@@ -91,12 +91,6 @@ I'm a student currently learning programming and creating my own version of digi
     <img alt="streak" style="padding-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
 </p>
 
-- ### My Activity
-
-<p align="center">
-    <img alt="activity" style="padding-bottom:10px;" src="https://activity-graph.herokuapp.com/graph?username=SOME-1HING&custom_title=My%20Activity%20Graph&bg_color=000000&line=f3ff00&color=0DF2AB&point=0C00FF&hide_border=true&area=true&area_color=ec9006">
-</p>
-
 
 <p align = "left">
     <img alt="profile-views" src="https://komarev.com/ghpvc/?username=SOME-1HING&label=Profile%20views&color=0e75b6&style=flat">
