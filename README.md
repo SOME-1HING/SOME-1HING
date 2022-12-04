@@ -75,12 +75,9 @@ I'm a student currently learning programming and creating my own version of digi
   
 - ### GitHub Stats
 
-<p align="left">
+<p align="center">
     <img align="left" alt="Stats" style="padding-bottom:20px;width: 50%" src="https://github-readme-stats.vercel.app/api?username=SOME-1HING&show_icons=true&theme=highcontrast">
     <img align="right" alt="streak" style="padding-bottom:20px;width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOME-1HING&theme=radical&layout=compact">
-</p>
-
-<p align="center" style="padding:10px;">
     <img align="center" alt="Stats" style="padding:100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
 </p>
 
