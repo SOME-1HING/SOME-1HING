@@ -77,9 +77,7 @@ I'm a student currently learning programming and creating my own version of digi
 
 <p align="left">
     <img alt="Stats" style="padding-bottom:20px" src="https://github-readme-stats.vercel.app/api?username=SOME-1HING&show_icons=true&theme=highcontrast">
-</p>
 
-<p align="right">
     <img alt="streak" style="padding-bottom:20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
 </p>
 
