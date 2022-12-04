@@ -81,7 +81,7 @@ I'm a student currently learning programming and creating my own version of digi
 </p>
 
 <p align="center">
-    <img alt="Stats" style="padding-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
+    <img align="center" alt="Stats" style="padding-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
 </p>
 
 
