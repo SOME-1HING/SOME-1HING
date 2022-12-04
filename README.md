@@ -75,21 +75,19 @@ I'm a student currently learning programming and creating my own version of digi
   
 - ### GitHub Stats
 
-<p align="center">
+<p align="left">
     <img alt="Stats" style="padding-bottom:20px; padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=SOME-1HING&show_icons=true&theme=highcontrast">
 </p>
 
-- ### Top Languages
+<p align="right">
+    <img alt="streak" style="padding-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
+</p>
 
 <p align="center">
     <img alt="Stats" style="padding-bottom:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOME-1HING&theme=radical&layout=compact">
 </p>
 
-- ### GitHub Streak
 
-<p align="center">
-    <img alt="streak" style="padding-bottom:10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SOME-1HING&theme=highcontrast">
-</p>
 
 
 <p align = "left">
