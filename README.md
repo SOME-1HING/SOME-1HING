@@ -85,5 +85,5 @@ I'm a student currently learning programming and creating my own version of digi
 
 
 <p align = "left">
-    <img alt="profile-views" src="https://komarev.com/ghpvc/?username=SOME-1HING&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=SOME-1HING&label=Profile%20views&color=0e75b6&style=flat">
 </p>
