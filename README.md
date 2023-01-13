@@ -14,7 +14,7 @@
 - ✅ I’m looking to collaborate on `Open Source Projects`
 - 👨 Pronouns :  `He/Him`
 - ⚽ Hobbies : `Watching Anime | Chess | Gaming`
-- 
+
 - Website: https://some1hing.vercel.app/
 
 I'm a student currently learning programming and creating my own version of digital fantasy one step at a time. Most of my projects are made from scratch. I love planning and designing all the way to solve my problems. I mostly have exprience working in the backend with languages.
