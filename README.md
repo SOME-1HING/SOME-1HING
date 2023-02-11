@@ -34,9 +34,10 @@ I'm a student currently learning programming and creating my own version of digi
 ### Certificates
 - [HackerRank Python(Basic) Certificate](https://www.hackerrank.com/certificates/7e5cd78f5732)
 - [FreeCodeCamp.org Python Certificate](https://freecodecamp.org/certification/SOME1HING/scientific-computing-with-python-v7)
-- [HackerRank JavaScript(Basic) certificate](https://www.hackerrank.com/certificates/3155c98015f6)
-- [HackerRank SQL(Basic) certificate](https://www.hackerrank.com/certificates/cfcd78095cc4)
-- [HackerRank SQL(Intermediate) certificate](https://www.hackerrank.com/certificates/4ea818fb0812)
+- [HackerRank JavaScript(Basic) Certificate](https://www.hackerrank.com/certificates/3155c98015f6)
+- [HackerRank Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/61fe488f70c3)
+- [HackerRank SQL(Basic) Certificate](https://www.hackerrank.com/certificates/cfcd78095cc4)
+- [HackerRank SQL(Intermediate) Certificate](https://www.hackerrank.com/certificates/4ea818fb0812)
 
 ### Contacts
 <p align="center">
