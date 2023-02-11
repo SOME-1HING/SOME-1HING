@@ -36,6 +36,7 @@ I'm a student currently learning programming and creating my own version of digi
 - [HackerRank Python(Basic) Certificate](https://www.hackerrank.com/certificates/7e5cd78f5732)
 - [HackerRank CSS Certificate](https://www.hackerrank.com/certificates/f95af954ffde)
 - [HackerRank JavaScript(Basic) Certificate](https://www.hackerrank.com/certificates/3155c98015f6)
+- [HackerRank JavaScript(Intermediate) Certificate](https://www.hackerrank.com/certificates/a36f64ad5938)
 - [HackerRank Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/61fe488f70c3)
 - [HackerRank SQL(Basic) Certificate](https://www.hackerrank.com/certificates/cfcd78095cc4)
 - [HackerRank SQL(Intermediate) Certificate](https://www.hackerrank.com/certificates/4ea818fb0812)
