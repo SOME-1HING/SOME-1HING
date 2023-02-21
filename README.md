@@ -99,7 +99,7 @@ I'm a student currently learning programming and creating my own version of digi
 
 
 
-
+![](https://hit.yhype.me/github/profile?user_id=102433399)
 
 <p align = "left">
     <img src="https://komarev.com/ghpvc/?username=SOME-1HING&label=Profile%20views&color=0e75b6&style=flat">
