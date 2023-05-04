@@ -9,11 +9,11 @@
 
 ### Information
 
-- ⚡️ I’m currently working on  `Telegram Bots`
-- 🤓 I’m currently learning  `JavaScript | Go`
+- ⚡️ I’m currently working on  `React Websites`
+- 🤓 I’m currently learning  `C | Data Science`
 - ✅ I’m looking to collaborate on `Open Source Projects`
 - 👨 Pronouns :  `He/Him`
-- ⚽ Hobbies : `Watching Anime | Chess | Gaming`
+- ⚽ Hobbies : `Chess | Gaming`
 
 - Website: https://some1hing.vercel.app/
 
