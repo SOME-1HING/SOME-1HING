@@ -40,6 +40,7 @@ I'm a student currently learning programming and creating my own version of digi
 - [HackerRank JavaScript(Basic) Certificate](https://www.hackerrank.com/certificates/3155c98015f6)
 - [HackerRank JavaScript(Intermediate) Certificate](https://www.hackerrank.com/certificates/a36f64ad5938)
 - [HackerRank Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/61fe488f70c3)
+- [HackerRank Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/e4de8eed9321)
 - [HackerRank SQL(Basic) Certificate](https://www.hackerrank.com/certificates/cfcd78095cc4)
 - [HackerRank SQL(Intermediate) Certificate](https://www.hackerrank.com/certificates/4ea818fb0812)
 
@@ -54,7 +55,7 @@ I'm a student currently learning programming and creating my own version of digi
 </p>
 
 
-### Languges and Tools
+### Languages and Tools
 <p align="left">
     <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
